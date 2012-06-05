@@ -1,0 +1,17 @@
+{
+  "author": "oroce <robert@oroszi.net> (http://oroszi.net)",
+  "name": "passport-token",
+  "description": "token based authentication for passportjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/oroce/passport-token",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oroce/passport-token.git"
+  },
+  "main": "./lib/passport-token",
+  "engines": {
+    "node": "~0.6.18"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
