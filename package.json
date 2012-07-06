@@ -10,7 +10,7 @@
   },
   "main": "./lib/passport-token",
   "engines": {
-    "node": "~0.6.18"
+   "node": ">= 0.4.0"
   },
   "dependencies": {
     "passport": "~0.1.3"
